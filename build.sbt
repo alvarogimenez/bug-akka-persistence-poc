@@ -1,5 +1,5 @@
 val AkkaVersion = "2.6.10"
-val AkkaPersistenceCassandraVersion = "1.0.4"
+val AkkaPersistenceCassandraVersion = "0.101"
 
 lazy val `test` = project
   .in(file("."))
